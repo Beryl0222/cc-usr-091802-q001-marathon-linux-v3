@@ -1,0 +1,7 @@
+{
+  "event_id": "ty-marathon-2026",
+  "starts": 4,
+  "entries": {"marathon": 18000, "half_marathon": 22000},
+  "awards": {"overall_places": 100, "domestic_places": 8},
+  "medical": {"stations": 40, "ambulances": 44, "aed": 100, "hospitals": 13}
+}
